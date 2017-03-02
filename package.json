@@ -1,0 +1,19 @@
+{
+  "name": "lbry-yt-transfer",
+  "version": "0.0.1",
+  "description": "A tool for uploading youtube videos to lbry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lbry",
+    "youtube",
+    "uploading"
+  ],
+  "author": "Filip Nyquist (Fillerino)",
+  "license": "MIT",
+  "dependencies": {
+    "youtube-dl": "^1.11.1"
+  }
+}
