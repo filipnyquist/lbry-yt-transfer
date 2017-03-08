@@ -1,5 +1,9 @@
 {
-  "app": {
-    "key": ""
+  "youtube_api": {
+    "key": "AIzaSyBActRVXBfP6RUVwWkMpcUH5uX-aantbL0"
+  },
+  "limiter": {
+    "concurrent_d" : 3,
+    "concurrent_u": 3 
   }
 }
