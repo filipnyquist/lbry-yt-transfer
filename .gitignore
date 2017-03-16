@@ -4,6 +4,8 @@ log
 *.log
 npm-debug.log*
 
+#VS-code
+.vscode
 # Configs 
 config.json
 #db
