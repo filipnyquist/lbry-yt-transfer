@@ -1,6 +1,6 @@
 {
   "youtube_api": {
-    "key": "AIzaSyBActRVXBfP6RUVwWkMpcUH5uX-aantbL0"
+    "key": "add api key here"
   },
   "limiter": {
     "concurrent_d" : 3,
