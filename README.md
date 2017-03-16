@@ -1,4 +1,4 @@
-# Lbry Youtube Transferer
+# Lbry Youtube Transfer Tool
 This is a custom made software created to help with the mirroring of a youtube channel to [LBRY](https://lbry.io/)!
 
   - It downloads all the youtube videos from a channel
